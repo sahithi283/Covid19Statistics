@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2bfe6fe-c6ed-49b0-8da7-d9159a32a384" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="FlipkartProject" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ixg2gTnNWgikIzdHWAv6WqjXip" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Sahithi_Kakkerla\Downloads\RD_Training-master\RD_Training-master\Flipkart_Project\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/Sahithi_Kakkerla/Downloads/RD_Training-master/RD_Training-master/Flipkart_Project/testng.xml">
+    <configuration name="All in FlipkartProject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Covid19_Statistics" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="Covid19_Statistics" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="Covid19_Statistics" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Sahithi_Kakkerla/Downloads/RD_Training-master/RD_Training-master/Flipkart_Project/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Covid19_Statistics" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Sahithi_Kakkerla/Downloads/RD_Training-master/RD_Training-master/Flipkart_Project/testng.xml" />
+        <item itemvalue="JUnit.All in FlipkartProject" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2bfe6fe-c6ed-49b0-8da7-d9159a32a384" name="Default Changelist" comment="" />
+      <created>1602854451859</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602854451859</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602908692864">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1602908692864" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1602854951409">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602854951409" />
+    <state width="1323" height="72" key="GridCell.Tab.0.bottom" timestamp="1602909496541">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="72" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602909496541" />
+    <state width="1323" height="72" key="GridCell.Tab.0.center" timestamp="1602909496540">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="72" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602909496540" />
+    <state width="1323" height="72" key="GridCell.Tab.0.left" timestamp="1602909496540">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="72" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602909496540" />
+    <state width="1323" height="72" key="GridCell.Tab.0.right" timestamp="1602909496540">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="72" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602909496540" />
+    <state x="263" y="99" key="IDE.errors.dialog" timestamp="1602854870214">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="99" key="IDE.errors.dialog/0.0.1366.728@0.0.1366.728" timestamp="1602854870214" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1602906417107">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1602906417107" />
+    <state x="379" y="96" width="636" height="536" key="find.popup" timestamp="1602909566321">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="96" width="636" height="536" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1602909566321" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1602854529993">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1602854529993" />
+  </component>
+</project>
